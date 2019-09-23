@@ -1,0 +1,290 @@
+caso_id,intervencion_fecha_hora,victima_embarazo,victima_edad,victima_genero,victima_nacionalidad,victima_discapacidad,violencia_tipo,agresor_relacion_victima
+414237,2019-04-02 23:00:00,NO,0,Trans,Argentina,NO,Psicológica,Padre
+414237,2019-04-03 09:00:00,NO,0,Femenino,Argentina,NO,Psicológica,Padre
+414290,2019-04-04 09:30:00,NO,0,Masculino,Argentina,NO,Psicológica,Padre
+407209,2019-04-09 15:00:00,NO,0,Masculino,Argentina,NS/NC,Psicológica,Padre
+414671,2019-04-15 15:00:00,NO,0,Masculino,Argentina,SI,Psicológica,Padre
+414721,2019-04-17 14:30:00,NO,0,Masculino,Argentina,NS/NC,Sexual,Padre
+414818,2019-04-22 09:00:00,NO,0,Femenino,Argentina,NS/NC,Psicológica,Padre
+414671,2019-04-23 09:00:00,NO,0,Masculino,Argentina,NS/NC,Psicológica,Padre
+236797,2019-05-13 09:00:00,NO,0,Masculino,Argentina,NO,Psicológica,Padre
+236797,2019-05-14 09:00:00,NO,0,Masculino,Argentina,NO,Psicológica,Padre
+322944,2019-05-21 13:30:00,NS/NC,0,Femenino,Argentina,NS/NC,Psicológica,NS/NC
+415793,2019-05-22 09:30:00,NO,0,Femenino,Argentina,NO,Psicológica,Padre
+415793,2019-05-24 08:40:00,NO,0,Femenino,Argentina,NO,Física,Padre
+416640,2019-06-20 14:00:00,NO,0,Masculino,Argentina,NO,Psicológica,Padre
+416760,2019-06-25 16:00:00,NO,0,Femenino,Argentina,NO,Psicológica,Padre
+416882,2019-06-30 09:30:00,NO,0,Masculino,Argentina,NS/NC,Psicológica,Padre
+414623,2019-04-14 20:30:00,NO,1,Femenino,Argentina,NS/NC,Psicológica,Padre
+414623,2019-04-14 20:30:00,NO,1,Femenino,Argentina,NS/NC,Psicológica,Padre
+414931,2019-04-22 14:30:00,NO,1,Femenino,Argentina,NO,Psicológica,Padre
+414959,2019-04-23 16:30:00,NO,1,Femenino,Argentina,NS/NC,Psicológica,Padre
+414957,2019-04-24 08:30:00,NS/NC,1,Femenino,Argentina,NO,Psicológica,Padre
+414671,2019-04-26 09:00:00,NO,1,Masculino,Argentina,SI,Psicológica,Padre
+360141,2019-04-28 03:00:00,NO,1,Femenino,Argentina,NO,Psicológica,Padre
+360141,2019-04-28 12:30:00,NO,1,Femenino,Argentina,NO,Psicológica,Padre
+415114,2019-04-29 00:15:00,NO,1,Masculino,Argentina,NO,Psicológica,Padre
+415264,2019-05-05 14:30:00,NO,1,Masculino,Argentina,NO,Física,Padre
+410497,2019-05-15 16:05:00,NO,1,Masculino,Argentina,NO,Psicológica,Padre
+415605,2019-05-16 11:00:00,NO,1,Masculino,Argentina,NO,Física,Padre
+415605,2019-05-17 09:00:00,NO,1,Masculino,Argentina,NO,Psicológica,Padre
+416044,2019-05-30 14:30:00,NO,1,Femenino,Argentina,NO,Psicológica,Padre
+416267,2019-06-06 17:00:00,NO,1,Masculino,Argentina,NO,Psicológica,Otro conviviente
+359023,2019-06-10 12:30:00,NO,1,Masculino,Argentina,NO,Psicológica,Padre
+416406,2019-06-12 20:30:00,NO,1,Femenino,Peruana,NO,Psicológica,Padre
+416409,2019-06-13 20:45:00,NO,1,Femenino,Argentina,NO,Psicológica,Padre
+414593,2019-04-12 17:00:00,NO,2,Femenino,Argentina,NO,Física,Padre
+194854,2019-04-16 08:30:00,NO,2,Femenino,Argentina,NO,Psicológica,Padre
+233151,2019-04-22 10:00:00,NO,2,Femenino,Argentina,NS/NC,Psicológica,Padre
+414954,2019-04-29 09:15:00,NO,2,Masculino,Argentina,NO,Psicológica,Padre
+415114,2019-04-29 00:15:00,NO,2,Masculino,Argentina,NO,Psicológica,Padre
+415566,2019-05-14 15:30:00,NO,2,Femenino,Argentina,NO,Física,Padre
+415511,2019-05-15 09:30:00,NO,2,Masculino,Argentina,NS/NC,Psicológica,Padre
+415595,2019-05-16 21:00:00,NO,2,Masculino,Argentina,NO,Física,Madre
+406059,2019-06-08 13:00:00,NO,2,Masculino,Argentina,NO,Psicológica,Padre
+416681,2019-06-21 20:30:00,NO,2,Femenino,Argentina,NS/NC,Psicológica,Padre
+414871,2019-06-23 15:30:00,NO,2,Masculino,Argentina,NS/NC,Psicológica,Padre
+345942,2019-06-25 15:30:00,NO,2,Femenino,Argentina,NS/NC,Física,Padre
+414290,2019-04-04 09:30:00,NO,3,Masculino,Argentina,NS/NC,Psicológica,Pareja de la madre/padre
+414391,2019-04-05 20:30:00,NO,3,Femenino,Argentina,NS/NC,Física,Padre
+414520,2019-04-09 11:30:00,NO,3,Masculino,Argentina,NS/NC,Psicológica,Padre
+414604,2019-04-12 23:45:00,NO,3,Femenino,Argentina,NO,Física,Padre
+414719,2019-04-17 11:00:00,NO,3,Masculino,Otra,NS/NC,Psicológica,Padre
+415264,2019-05-05 14:30:00,NO,3,Femenino,Argentina,NO,Física,Padre
+203536,2019-05-15 20:30:00,NO,3,Masculino,Argentina,NS/NC,Física,Padre
+415595,2019-05-16 21:00:00,NO,3,Femenino,Argentina,NO,Psicológica,Otro conviviente
+416114,2019-06-01 16:15:00,NO,3,Femenino,Argentina,NO,Psicológica,Padre
+414237,2019-04-02 23:00:00,NO,4,Masculino,Brasileña,NO,Psicológica,Pareja de la madre/padre
+414237,2019-04-03 09:00:00,NO,4,Masculino,Brasileña,NO,Psicológica,Pareja de la madre/padre
+233151,2019-04-22 10:00:00,NO,4,Masculino,Argentina,NO,Psicológica,Padre
+415257,2019-05-06 09:30:00,NO,4,Masculino,Argentina,NO,Psicológica,Padre
+415480,2019-05-12 08:30:00,NO,4,Femenino,Argentina,NO,Psicológica,Padre
+415605,2019-05-16 11:00:00,NO,4,Masculino,Argentina,NO,Física,Padre
+415605,2019-05-17 09:00:00,NO,4,Masculino,Argentina,NO,Física,Padre
+322944,2019-05-21 13:30:00,NS/NC,4,Masculino,Argentina,NS/NC,Psicológica,NS/NC
+416044,2019-05-30 14:30:00,NO,4,Femenino,Argentina,NS/NC,Psicológica,Padre
+416135,2019-06-02 13:30:00,NO,4,Masculino,Argentina,NS/NC,Física,Padre
+416878,2019-06-30 02:30:00,NO,4,Masculino,Argentina,NS/NC,Psicológica,Pareja de la madre/padre
+411232,2019-04-01 16:00:00,NO,5,Femenino,Argentina,NO,Psicológica,Padre
+411232,2019-04-02 10:00:00,NO,5,Femenino,Argentina,NO,Psicológica,Padre
+414227,2019-04-02 20:30:00,NO,5,Femenino,Argentina,NO,Psicológica,Padre
+414391,2019-04-05 20:30:00,NO,5,Femenino,Argentina,NO,Física,Padre
+414604,2019-04-12 23:45:00,NO,5,Masculino,Argentina,NO,Física,Padre
+415084,2019-04-28 12:30:00,NO,5,Femenino,Argentina,NO,Psicológica,Padre
+415337,2019-05-07 09:00:00,NO,5,Femenino,Argentina,NO,Psicológica,Pareja de la madre/padre
+415511,2019-05-15 09:30:00,NO,5,Femenino,Argentina,NS/NC,Psicológica,Padre
+406059,2019-06-08 13:00:00,NO,5,Masculino,Argentina,NO,Psicológica,Padre
+414520,2019-04-09 11:30:00,NO,6,Femenino,Argentina,NO,Psicológica,Padre
+414805,2019-04-19 14:00:00,NO,6,Masculino,Argentina,NO,Psicológica,Padre
+233151,2019-04-23 09:00:00,NO,6,Femenino,Argentina,NS/NC,Psicológica,Padre
+415178,2019-05-02 05:30:00,NO,6,Femenino,NS/NC,NO,Psicológica,Padre
+416135,2019-06-02 13:30:00,NO,6,Masculino,Argentina,NO,Física,Padre
+416193,2019-06-04 17:00:00,NO,6,Masculino,Argentina,NO,Física,Padre
+414604,2019-04-12 23:45:00,NO,7,Femenino,Argentina,NO,Física,Padre
+415480,2019-05-12 08:30:00,NO,7,Femenino,Argentina,NO,Psicológica,Padre
+362104,2019-05-13 20:00:00,NO,7,Masculino,Argentina,NO,Psicológica,Padre
+416396,2019-06-13 09:00:00,NO,7,Masculino,Argentina,SI,Física,Pareja de la madre/padre
+155854,2019-06-16 08:00:00,NO,7,Femenino,Argentina,NO,Física,Padre
+236543,2019-06-22 22:00:00,NO,7,Femenino,Argentina,NO,Psicológica,Padre
+416803,2019-06-27 02:00:00,NS/NC,7,Masculino,Argentina,NO,Psicológica,Padre
+416803,2019-06-27 08:30:00,NO,7,Masculino,Argentina,NO,Psicológica,Padre
+233151,2019-04-23 09:00:00,NO,8,Masculino,Argentina,NO,Psicológica,Padre
+415114,2019-04-29 00:15:00,NO,8,Masculino,Argentina,NO,Psicológica,Pareja de la madre/padre
+415535,2019-05-13 20:00:00,NO,8,Femenino,Argentina,NS/NC,Psicológica,Padre
+416534,2019-06-17 00:40:00,NS/NC,8,Masculino,Argentina,NS/NC,Psicológica,Padre
+414871,2019-06-23 15:30:00,NO,8,Masculino,Argentina,NS/NC,Física,Pareja de la madre/padre
+414227,2019-04-02 20:30:00,NO,9,Femenino,Argentina,NO,Psicológica,Padre
+414604,2019-04-12 23:45:00,NO,9,Masculino,Argentina,NO,Física,Padre
+414959,2019-04-23 16:30:00,NO,9,Masculino,Argentina,NS/NC,Psicológica,Padre
+360141,2019-04-28 12:30:00,NO,9,Masculino,Boliviana,NS/NC,Física,Padre
+360141,2019-04-28 03:00:00,NO,9,Masculino,Argentina,NS/NC,Física,Padre
+415257,2019-05-06 09:30:00,NO,9,Femenino,Argentina,NO,Física,Padre
+991,2019-05-23 17:00:00,NO,9,Masculino,Argentina,NS/NC,Física y sexual,Padre
+416193,2019-06-04 17:00:00,NO,9,Masculino,Argentina,NO,Física,Padre
+416499,2019-06-15 13:30:00,NO,9,Masculino,Argentina,NS/NC,Física,Madre
+416878,2019-06-30 02:30:00,NO,9,Masculino,Argentina,NS/NC,Psicológica,Pareja de la madre/padre
+414227,2019-04-02 20:30:00,NO,10,Masculino,Argentina,NO,Psicológica,Padre
+415449,2019-05-09 22:00:00,NO,10,Masculino,Argentina,NS/NC,Psicológica,Padre
+236797,2019-05-13 09:00:00,NO,10,Masculino,Argentina,NO,Psicológica,Padre
+236797,2019-05-14 09:00:00,NO,10,Masculino,Argentina,NO,Psicológica,Padre
+416396,2019-06-13 09:00:00,NO,10,Masculino,Argentina,SI,Psicológica,Pareja de la madre/padre
+414648,2019-04-14 20:00:00,NO,11,Masculino,Argentina,NO,Física y sexual,Pareja de la madre/padre
+414805,2019-04-19 14:00:00,NO,11,Masculino,Argentina,NO,Física,Padre
+414959,2019-04-23 16:30:00,NO,11,Masculino,Argentina,NO,Psicológica,Padre
+415114,2019-04-29 00:15:00,NO,11,Masculino,Argentina,NO,Física,Pareja de la madre/padre
+415535,2019-05-13 20:00:00,NO,11,Masculino,Argentina,SI,Psicológica,Padre
+415595,2019-05-16 21:00:00,NO,11,Masculino,Argentina,NO,Física,Madre
+415595,2019-05-16 21:00:00,NO,11,Femenino,Argentina,NO,Física,Madre
+991,2019-05-23 17:00:00,NO,11,Masculino,Argentina,NS/NC,Física y sexual,Padre
+414933,2019-04-25 11:20:00,NO,12,Masculino,Argentina,NS/NC,Física,Madre
+362104,2019-05-13 20:00:00,NO,12,Masculino,Argentina,NO,Psicológica,Padre
+414871,2019-06-23 15:30:00,NO,12,Femenino,Boliviana,NO,Física,Pareja de la madre/padre
+416878,2019-06-30 02:30:00,NO,12,Masculino,Argentina,NS/NC,Psicológica,Pareja de la madre/padre
+416882,2019-06-30 09:30:00,NO,12,Femenino,Boliviana,NS/NC,Física,Pareja de la madre/padre
+414933,2019-04-25 11:20:00,NO,13,Masculino,Argentina,NS/NC,Física,Madre
+236797,2019-05-13 09:00:00,NO,13,Femenino,Argentina,NO,Física,Padre
+415535,2019-05-13 20:00:00,NS/NC,13,Femenino,Argentina,NS/NC,Física,Padre
+236797,2019-05-14 09:00:00,NS/NC,13,Femenino,Argentina,NS/NC,Física,Padre
+188123,2019-05-17 22:30:00,NO,13,Femenino,Argentina,NO,Física,Madre
+415888,2019-05-27 09:00:00,NO,13,Femenino,Argentina,NO,Psicológica,Ex espos@/pareja
+416193,2019-06-04 17:00:00,NO,13,Femenino,Argentina,NO,Física,Padre
+414227,2019-04-02 20:30:00,NO,14,Masculino,Argentina,NO,Física,Padre
+362104,2019-05-13 20:00:00,NO,14,Masculino,Argentina,NO,Psicológica,Padre
+155854,2019-06-18 08:30:00,NO,14,Femenino,Argentina,NO,Física,Padre
+236543,2019-06-22 22:00:00,NO,14,Femenino,Argentina,NS/NC,Psicológica,Otro no conviviente
+322944,2019-05-21 13:30:00,NS/NC,15,Masculino,Argentina,NS/NC,Psicológica,NS/NC
+416067,2019-05-31 12:00:00,NO,15,Masculino,Paraguaya,NO,Física,Padre
+416878,2019-06-30 02:30:00,NO,15,Masculino,Argentina,NS/NC,Física,Pareja de la madre/padre
+415449,2019-05-09 22:00:00,NO,16,Femenino,Argentina,NS/NC,Psicológica,Padre
+415451,2019-05-10 02:20:00,NO,16,Masculino,Argentina,NO,Física,Padre
+416067,2019-05-31 12:00:00,NO,16,Femenino,Paraguaya,NO,Física,Padre
+416230,2019-06-06 10:00:00,NO,16,Femenino,Argentina,NO,Psicológica,Madre
+409538,2019-05-19 02:00:00,NO,17,Femenino,Argentina,NS/NC,Física,Pareja de la madre/padre
+415914,2019-05-25 13:00:00,NO,17,Femenino,Argentina,NO,Física,Espos@/compañer@ actual
+416565,2019-06-17 00:00:00,NO,17,Masculino,Peruana,NO,Física,Padre
+416878,2019-06-30 02:30:00,NO,17,Masculino,Argentina,NS/NC,Psicológica,Pareja de la madre/padre
+362018,2019-05-06 09:00:00,NO,18,Femenino,Argentina,NS/NC,Psicológica,Ex espos@/pareja
+362018,2019-05-06 00:00:00,NO,18,Femenino,Argentina,NS/NC,Física y sexual,Ex espos@/pareja
+416832,2019-06-27 18:30:00,NS/NC,18,Femenino,Argentina,NO,Física,Madre
+414818,2019-04-22 09:00:00,NO,19,Femenino,Argentina,NS/NC,Física,Ex espos@/pareja
+414818,2019-04-23 23:00:00,NO,19,Femenino,Argentina,NO,Física,Ex espos@/pareja
+415793,2019-05-22 09:30:00,NO,19,Femenino,Argentina,NO,Física,Espos@/compañer@ actual
+415793,2019-05-24 08:40:00,NO,19,Femenino,Argentina,NO,Económica y física,Espos@/compañer@ actual
+415793,2019-05-27 09:00:00,NO,19,Femenino,Argentina,NO,Económica y física,Espos@/compañer@ actual
+416528,2019-06-16 20:20:00,NO,19,Femenino,Argentina,NO,Física,Espos@/compañer@ actual
+416681,2019-06-21 20:30:00,SI,19,Femenino,Argentina,NS/NC,Física,Espos@/compañer@ actual
+415248,2019-06-26 12:00:00,SI,19,Femenino,Argentina,NS/NC,Física,Espos@/compañer@ actual
+414658,2019-04-15 11:25:00,NO,20,Femenino,Boliviana,NO,Física,Espos@/compañer@ actual
+415985,2019-05-27 21:00:00,NS/NC,20,Femenino,Argentina,NO,Física,Madre
+416114,2019-06-01 16:15:00,NS/NC,20,Femenino,Peruana,NO,Física,Espos@/compañer@ actual
+416406,2019-06-12 20:30:00,NO,20,Femenino,Peruana,NO,Física,Espos@/compañer@ actual
+416409,2019-06-13 20:45:00,NO,20,Femenino,Peruana,NS/NC,Física,Espos@/compañer@ actual
+416409,2019-06-13 08:00:00,NO,20,Femenino,Peruana,NO,Física,Espos@/compañer@ actual
+189204,2019-05-27 08:30:00,NO,21,Femenino,Argentina,NS/NC,Física,Ex espos@/pareja
+407209,2019-04-09 15:00:00,NS/NC,22,Femenino,Argentina,NS/NC,Física,Espos@/compañer@ actual
+414721,2019-04-17 14:30:00,NS/NC,22,Femenino,Argentina,NS/NC,Física y sexual,Espos@/compañer@ actual
+414931,2019-04-22 14:30:00,NS/NC,22,Femenino,Boliviana,NO,Física,Espos@/compañer@ actual
+415112,2019-04-28 22:30:00,NS/NC,22,Femenino,Argentina,NS/NC,Física,Espos@/compañer@ actual
+415264,2019-05-05 14:30:00,NS/NC,22,Femenino,Boliviana,NO,Económica y física,Espos@/compañer@ actual
+415566,2019-05-14 15:30:00,NO,22,Femenino,Argentina,NS/NC,Física,Espos@/compañer@ actual
+415595,2019-05-16 21:00:00,NS/NC,22,Femenino,Argentina,NO,Física,Herman@
+416135,2019-06-02 13:30:00,NS/NC,22,Masculino,Peruana,NO,Física,Espos@/compañer@ actual
+414536,2019-04-10 10:00:00,NO,23,Femenino,Argentina,NS/NC,Física,Espos@/compañer@ actual
+414536,2019-04-10 10:00:00,NO,23,Femenino,Argentina,NS/NC,Física,Espos@/compañer@ actual
+414875,2019-04-21 17:40:00,NO,23,Femenino,Paraguaya,NO,Física,Espos@/compañer@ actual
+414903,2019-04-24 10:00:00,NS/NC,23,Masculino,Argentina,NO,Física,Espos@/compañer@ actual
+415676,2019-05-17 20:30:00,NO,23,Femenino,Paraguaya,NO,Física,Espos@/compañer@ actual
+362273,2019-06-22 15:00:00,NO,23,Femenino,Argentina,NS/NC,Física,Espos@/compañer@ actual
+345942,2019-06-25 15:30:00,NS/NC,23,Femenino,Argentina,NO,Física,Ex espos@/pareja
+414719,2019-04-17 11:00:00,NO,24,Femenino,Otra,NS/NC,Física,Ex espos@/pareja
+233151,2019-04-22 10:00:00,NS/NC,24,Femenino,Peruana,NS/NC,Económica y física,Espos@/compañer@ actual
+415605,2019-05-16 11:00:00,NO,24,Femenino,Paraguaya,NO,Física y sexual,Espos@/compañer@ actual
+415605,2019-05-17 09:00:00,NO,24,Femenino,Paraguaya,NO,Física y sexual,Espos@/compañer@ actual
+416491,2019-06-15 12:00:00,NO,24,Trans,Brasileña,NO,Física,Espos@/compañer@ actual
+416683,2019-06-21 20:30:00,NS/NC,24,Femenino,Argentina,NS/NC,Física,Espos@/compañer@ actual
+416760,2019-06-25 16:00:00,NO,24,Femenino,Otra,NO,Física,Ex espos@/pareja
+415084,2019-04-28 12:30:00,SI,25,Femenino,Peruana,NO,Psicológica,Ex espos@/pareja
+415151,2019-04-29 22:00:00,NS/NC,25,Femenino,Argentina,NO,Física y sexual,Ex espos@/pareja
+415151,2019-04-30 17:00:00,NO,25,Femenino,Argentina,NO,Física y sexual,Espos@/compañer@ actual
+411232,2019-04-01 16:00:00,NS/NC,26,Femenino,Boliviana,NO,Física,Espos@/compañer@ actual
+411232,2019-04-02 10:00:00,NO,26,Femenino,Boliviana,NO,Física,Espos@/compañer@ actual
+414671,2019-04-15 15:00:00,NO,26,Femenino,Argentina,NO,Física,Ex espos@/pareja
+414671,2019-04-23 09:00:00,NS/NC,26,Masculino,Argentina,NS/NC,Física,Ex espos@/pareja
+414671,2019-04-26 09:00:00,NO,26,Femenino,Argentina,NS/NC,Física,Ex espos@/pareja
+360141,2019-04-28 03:00:00,NO,26,Femenino,Boliviana,NS/NC,Física,Espos@/compañer@ actual
+360141,2019-04-28 12:30:00,NO,26,Femenino,Boliviana,NS/NC,Física,Espos@/compañer@ actual
+406059,2019-06-08 13:00:00,NO,26,Femenino,Argentina,NO,Psicológica,Espos@/compañer@ actual
+359023,2019-06-10 12:30:00,NO,26,Femenino,Boliviana,NO,Económica y física,Espos@/compañer@ actual
+414954,2019-04-29 09:15:00,NO,27,Masculino,Paraguaya,NS/NC,Física,Ex espos@/pareja
+411190,2019-05-16 03:15:00,SI,27,Femenino,Argentina,NS/NC,Física,Espos@/compañer@ actual
+416640,2019-06-20 14:00:00,NS/NC,27,Femenino,Argentina,NO,Económica y física,Espos@/compañer@ actual
+414391,2019-04-05 20:30:00,NO,28,Femenino,Argentina,NS/NC,Física,Espos@/compañer@ actual
+414391,2019-04-08 09:00:00,NO,28,Femenino,Argentina,NO,Física,Ex espos@/pareja
+414786,2019-04-19 02:00:00,NO,28,Masculino,Argentina,NS/NC,Económica y física,Ex espos@/pareja
+233151,2019-04-23 09:00:00,NS/NC,28,Femenino,Peruana,NS/NC,Económica y física,Espos@/compañer@ actual
+415104,2019-04-28 20:30:00,NO,28,Femenino,Argentina,NO,Física,Espos@/compañer@ actual
+410497,2019-05-15 16:05:00,NO,28,Femenino,Otra,NO,Económica y física,Espos@/compañer@ actual
+416044,2019-05-30 14:30:00,NO,28,Femenino,Argentina,NS/NC,Física,Espos@/compañer@ actual
+416044,2019-05-31 11:00:00,NS/NC,28,Masculino,Argentina,NS/NC,Física,Espos@/compañer@ actual
+361875,2019-06-21 09:30:00,NO,28,Femenino,Argentina,NS/NC,Física y sexual,Otro no conviviente
+414401,2019-04-06 10:30:00,NO,29,Femenino,Argentina,NO,Física,Espos@/compañer@ actual
+414477,2019-04-08 16:00:00,NO,29,Femenino,Argentina,NO,Física,Espos@/compañer@ actual
+236797,2019-05-13 09:00:00,NO,29,Femenino,Argentina,NO,Física,Espos@/compañer@ actual
+236797,2019-05-14 09:00:00,NO,29,Femenino,Argentina,NO,Económica y física,Espos@/compañer@ actual
+188123,2019-05-17 22:30:00,NO,29,Femenino,Argentina,NO,Física,Madre
+416882,2019-06-30 09:30:00,NO,29,Femenino,Argentina,NS/NC,Física,Espos@/compañer@ actual
+414237,2019-04-02 23:00:00,NO,30,Masculino,Brasileña,NS/NC,Física,Espos@/compañer@ actual
+414237,2019-04-03 09:00:00,NO,30,Masculino,Brasileña,NS/NC,Física,Espos@/compañer@ actual
+414666,2019-04-15 13:00:00,NO,30,Femenino,Argentina,NO,Física,Espos@/compañer@ actual
+415511,2019-05-13 08:30:00,NS/NC,30,Femenino,Argentina,SI,Económica y física,Ex espos@/pareja
+415511,2019-05-15 09:30:00,NS/NC,30,Masculino,Argentina,SI,Física,Espos@/compañer@ actual
+361875,2019-06-06 14:00:00,NS/NC,30,Femenino,Argentina,NS/NC,Sexual,Ex espos@/pareja
+416357,2019-06-10 16:30:00,SI,30,Femenino,Argentina,NO,Física,Espos@/compañer@ actual
+416396,2019-06-13 09:00:00,SI,30,Femenino,Boliviana,NO,Económica y física,Espos@/compañer@ actual
+361875,2019-06-19 13:30:00,NS/NC,30,Femenino,Argentina,NS/NC,Física,Espos@/compañer@ actual
+416803,2019-06-27 02:00:00,NO,30,Femenino,Argentina,NS/NC,Física,Espos@/compañer@ actual
+416803,2019-06-27 08:30:00,NO,30,Femenino,Argentina,NS/NC,Física,Espos@/compañer@ actual
+415480,2019-05-12 08:30:00,NO,31,Femenino,Boliviana,NO,Física,Espos@/compañer@ actual
+416267,2019-06-06 17:00:00,NO,31,Femenino,Argentina,SI,Física,Herman@
+414290,2019-04-04 09:30:00,NO,32,Femenino,Argentina,NO,Física,Espos@/compañer@ actual
+414623,2019-04-14 20:30:00,NO,32,Femenino,Argentina,NO,Física,Espos@/compañer@ actual
+414805,2019-04-19 14:00:00,NO,32,Femenino,Argentina,NO,Económica y física,Espos@/compañer@ actual
+414892,2019-04-22 09:00:00,SI,32,Femenino,Argentina,NO,Física,Espos@/compañer@ actual
+414892,2019-04-24 09:30:00,SI,32,Femenino,Boliviana,NS/NC,Física,Espos@/compañer@ actual
+414520,2019-04-09 11:30:00,NO,33,Femenino,Argentina,NO,Psicológica,Ex espos@/pareja
+414593,2019-04-12 17:00:00,NO,33,Femenino,Argentina,NS/NC,Física,Espos@/compañer@ actual
+416193,2019-06-04 17:00:00,NS/NC,33,Femenino,Argentina,NO,Económica y física,Espos@/compañer@ actual
+414186,2019-04-01 02:00:00,NO,34,Femenino,Argentina,NS/NC,Física,Otro no conviviente
+415178,2019-05-02 05:30:00,NS/NC,34,Femenino,Boliviana,NO,Física,Espos@/compañer@ actual
+415535,2019-05-13 20:00:00,NS/NC,34,Femenino,Boliviana,NS/NC,Física,Espos@/compañer@ actual
+362104,2019-05-13 20:00:00,NO,34,Femenino,Boliviana,NO,Psicológica,Espos@/compañer@ actual
+415114,2019-04-29 00:15:00,NO,35,Femenino,Argentina,NO,Física,Espos@/compañer@ actual
+415494,2019-05-12 11:30:00,NO,35,Femenino,Boliviana,NO,Física,Espos@/compañer@ actual
+414871,2019-06-23 15:30:00,NO,35,Femenino,Argentina,NS/NC,Física,Espos@/compañer@ actual
+416350,2019-06-10 14:30:00,NS/NC,36,Masculino,Argentina,NS/NC,Física,Ex espos@/pareja
+414227,2019-04-02 20:30:00,NO,37,Femenino,Paraguaya,NO,Física,Ex espos@/pareja
+194854,2019-04-16 08:30:00,NO,37,Femenino,Peruana,NO,Económica,Espos@/compañer@ actual
+414957,2019-04-24 08:30:00,SI,37,Femenino,Argentina,NO,Económica y física,Ex espos@/pareja
+416142,2019-06-02 08:30:00,NS/NC,37,Masculino,Otra,NO,Física,Espos@/compañer@ actual
+415337,2019-05-07 09:00:00,NO,38,Femenino,Boliviana,NO,Física,Espos@/compañer@ actual
+236543,2019-06-22 22:00:00,NO,38,Femenino,Boliviana,NO,Física y sexual,Ex espos@/pareja
+414959,2019-04-23 16:30:00,NO,39,Masculino,Paraguaya,NO,Económica y física,Espos@/compañer@ actual
+322944,2019-05-21 13:30:00,NS/NC,39,Femenino,Argentina,NO,Psicológica,NS/NC
+416878,2019-06-30 02:30:00,NO,39,Femenino,Argentina,NO,Física,Espos@/compañer@ actual
+415257,2019-05-06 09:30:00,NO,40,Femenino,NS/NC,NO,Física,Ex espos@/pareja
+203536,2019-05-15 20:30:00,NO,40,Femenino,Argentina,NS/NC,Física,Espos@/compañer@ actual
+415888,2019-05-25 09:00:00,SI,40,Femenino,Paraguaya,NS/NC,Física y sexual,Ex espos@/pareja
+415888,2019-05-27 09:00:00,SI,40,Femenino,Paraguaya,NO,Física,Espos@/compañer@ actual
+415888,2019-06-04 12:00:00,SI,40,Femenino,Paraguaya,NS/NC,Física,Espos@/compañer@ actual
+415188,2019-05-03 09:30:00,NO,41,Femenino,Boliviana,NO,Física y sexual,Espos@/compañer@ actual
+416534,2019-06-17 00:40:00,NO,41,Femenino,Argentina,NS/NC,Física,Espos@/compañer@ actual
+416534,2019-06-17 00:40:00,NS/NC,41,Femenino,Argentina,NS/NC,Psicológica,Espos@/compañer@ actual
+415188,2019-05-02 20:30:00,NS/NC,42,Femenino,Boliviana,NO,Física,Espos@/compañer@ actual
+416148,2019-06-03 09:00:00,SI,42,Femenino,Boliviana,NO,Física,Espos@/compañer@ actual
+155854,2019-06-16 08:00:00,NS/NC,42,Femenino,Argentina,NO,Económica y física,Ex espos@/pareja
+373951,2019-06-29 22:00:00,NS/NC,42,Femenino,Argentina,NO,Física,Espos@/compañer@ actual
+414567,2019-04-10 13:45:00,NO,44,Femenino,Argentina,NO,Psicológica,Espos@/compañer@ actual
+416595,2019-06-19 03:30:00,NO,45,Femenino,Argentina,NO,Económica y física,Espos@/compañer@ actual
+416595,2019-06-20 15:00:00,NO,45,Femenino,Argentina,NO,Física,Espos@/compañer@ actual
+416595,2019-06-21 23:00:00,NO,45,Femenino,Argentina,NO,Física,Ex espos@/pareja
+416595,2019-06-21 07:30:00,NO,45,Femenino,Argentina,NO,Física y sexual,Espos@/compañer@ actual
+416595,2019-06-21 09:00:00,NO,45,Masculino,Argentina,NO,Física,Espos@/compañer@ actual
+415449,2019-05-09 22:00:00,NO,46,Femenino,Argentina,NS/NC,Física,Ex espos@/pareja
+155854,2019-06-18 08:30:00,NO,49,Femenino,Argentina,NO,Económica y física,Espos@/compañer@ actual
+414403,2019-04-06 01:00:00,NO,52,Femenino,Argentina,NO,Económica y física,Hij@
+416776,2019-06-26 00:00:00,NO,55,Femenino,Argentina,NO,Física,Espos@/compañer@ actual
+416776,2019-06-26 09:00:00,NO,55,Femenino,Argentina,NO,Física,Espos@/compañer@ actual
+188123,2019-05-17 22:30:00,NO,56,Masculino,Peruana,NO,Física,Ex espos@/pareja
+416124,2019-06-02 21:00:00,NO,56,Femenino,Argentina,NS/NC,Física y sexual,Espos@/compañer@ actual
+414959,2019-04-23 16:30:00,NO,59,Femenino,Paraguaya,SI,Psicológica,Otro conviviente
+414205,2019-04-01 20:00:00,NO,60,Femenino,Argentina,NO,Física,Hij@
+414205,2019-04-02 09:00:00,NS/NC,60,Femenino,Argentina,NO,Física,Hij@
+414205,2019-04-03 09:00:00,NO,60,Femenino,Argentina,NS/NC,Física,Hij@
+416124,2019-06-02 21:00:00,NO,65,Femenino,Argentina,NS/NC,Física,Otro conviviente
+415278,2019-05-06 11:30:00,NO,66,Femenino,Argentina,SI,Física,Espos@/compañer@ actual
+406793,2019-04-25 04:00:00,NO,68,Femenino,Argentina,SI,Física,Hij@
+414933,2019-04-25 11:20:00,NO,69,Femenino,Argentina,NS/NC,Física,Hij@
+415557,2019-05-15 11:00:00,NO,72,Femenino,Argentina,SI,Económica,Ex espos@/pareja
+415953,2019-05-27 21:30:00,NO,78,Femenino,Argentina,NS/NC,Económica y física,Espos@/compañer@ actual
+414434,2019-04-07 21:00:00,NO,80,Femenino,Argentina,NO,Física,Hij@
+343746,2019-04-25 08:30:00,NO,80,Femenino,Argentina,NS/NC,Física,Espos@/compañer@ actual
